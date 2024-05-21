@@ -1,0 +1,3 @@
+$(document).ready(function() {  $(".contact").validate({
+rules: {nombre: "required",	email: {required: true, email: true},mensaje: {required: true}},         
+messages: {nombre: "<div class='cont-msj'>Por favor, ingrese su nombre</div>", email: "<div class='cont-msj'>Por favor, ingrese un e-mail o copiar:<br />noreply@gruposaludcba.com.ar</div>", mensaje: "<div class='cont-msj'>Por favor, ingrese su mensaje</div>"}});}); 

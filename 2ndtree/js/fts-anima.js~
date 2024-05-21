@@ -1,0 +1,71 @@
+$(document).ready(function(){
+
+		/* landscape */
+		
+$("a.s6").mouseenter(function(event){event.preventDefault();$(this).animate({backgroundColor:'#fff', color:'#1687A9', boxShadow: '0 0 10px #fff'},'fast');$("a.s6 img").animate({opacity: '0.8'},'fast');});
+$("a.s6").mouseleave(function(event){event.preventDefault();$(this).animate({backgroundColor:'#1687A9', color:'#FCFBF6', boxShadow: '0 0 15px #111'},'fast');$("a.s6 img").animate({opacity: '1'},'fast');});
+$("a.s7").mouseenter(function(event){event.preventDefault();$(this).animate({backgroundColor:'#fff', color:'#1687A9', boxShadow: '0 0 10px #fff'},'fast');$("a.s7 img").animate({opacity: '0.8'},'fast');});
+$("a.s7").mouseleave(function(event){event.preventDefault();$(this).animate({backgroundColor:'#1687A9', color:'#FCFBF6', boxShadow: '0 0 15px #111'},'fast');$("a.s7 img").animate({opacity: '1'},'fast');});
+$("a.s9").mouseenter(function(event){event.preventDefault();$(this).animate({backgroundColor:'#fff', color:'#1687A9', boxShadow: '0 0 10px #fff'},'fast');$("a.s9 img").animate({opacity: '0.8'},'fast');});
+$("a.s9").mouseleave(function(event){event.preventDefault();$(this).animate({backgroundColor:'#1687A9', color:'#FCFBF6', boxShadow: '0 0 15px #111'},'fast');$("a.s9 img").animate({opacity: '1'},'fast');});
+$("a.s11").mouseenter(function(event){event.preventDefault();$(this).animate({backgroundColor:'#fff', color:'#1687A9', boxShadow: '0 0 10px #fff'},'fast');$("a.s11 img").animate({opacity: '0.8'},'fast');});
+$("a.s11").mouseleave(function(event){event.preventDefault();$(this).animate({backgroundColor:'#1687A9', color:'#FCFBF6', boxShadow: '0 0 15px #111'},'fast');$("a.s11 img").animate({opacity: '1'},'fast');});
+$("a.s8").mouseenter(function(event){event.preventDefault();$(this).animate({backgroundColor:'#fff', color:'#1687A9', boxShadow: '0 0 10px #fff'},'fast');$("a.s8 img").animate({opacity: '0.8'},'fast');});
+$("a.s8").mouseleave(function(event){event.preventDefault();$(this).animate({backgroundColor:'#1687A9', color:'#FCFBF6', boxShadow: '0 0 15px #111'},'fast');$("a.s8 img").animate({opacity: '1'},'fast');});
+$("a.s10").mouseenter(function(event){event.preventDefault();$(this).animate({backgroundColor:'#fff', color:'#1687A9', boxShadow: '0 0 10px #fff'},'fast');$("a.s10 img").animate({opacity: '0.8'},'fast');});
+$("a.s10").mouseleave(function(event){event.preventDefault();$(this).animate({backgroundColor:'#1687A9', color:'#FCFBF6', boxShadow: '0 0 15px #111'},'fast');$("a.s10 img").animate({opacity: '1'},'fast');});
+$("a.cnc").mouseenter(function(event){event.preventDefault();$(this).animate({backgroundColor:'#fff', color:'#DB9952', boxShadow: '0 0 10px #fff'},'fast');$("a.cnc img").animate({opacity: '0.8'},'fast');});
+$("a.cnc").mouseleave(function(event){event.preventDefault();$(this).animate({backgroundColor:'#DB9952', color:'#FCFBF6', boxShadow: '0 0 15px #111'},'fast');$("a.cnc img").animate({opacity: '1'},'fast');});
+$("a.cec").mouseenter(function(event){event.preventDefault();$(this).animate({backgroundColor:'#fff', color:'#AA9B72', boxShadow: '0 0 10px #fff'},'fast');$("a.cec img").animate({opacity: '0.8'},'fast');});
+$("a.cec").mouseleave(function(event){event.preventDefault();$(this).animate({backgroundColor:'#AA9B72', color:'#FCFBF6', boxShadow: '0 0 15px #111'},'fast');$("a.cec img").animate({opacity: '1'},'fast');});
+$("a.malv").mouseenter(function(event){event.preventDefault();$(this).animate({backgroundColor:'#fff', color:'#937DA1', boxShadow: '0 0 10px #fff'},'fast');$("a.malv img").animate({opacity: '0.8'},'fast');});
+$("a.malv").mouseleave(function(event){event.preventDefault();$(this).animate({backgroundColor:'#937DA1', color:'#FCFBF6', boxShadow: '0 0 15px #111'},'fast');$("a.malv img").animate({opacity: '1'},'fast');});
+$("a.cs").mouseenter(function(event){event.preventDefault();$(this).animate({backgroundColor:'#fff', color:'#866C5A', boxShadow: '0 0 10px #fff'},'fast');$("a.cs img").animate({opacity: '0.8'},'fast');});
+$("a.cs").mouseleave(function(event){event.preventDefault();$(this).animate({backgroundColor:'#866C5A', color:'#FCFBF6', boxShadow: '0 0 15px #111'},'fast');$("a.cs img").animate({opacity: '1'},'fast');});
+$("a.ag").mouseenter(function(event){event.preventDefault();$(this).animate({backgroundColor:'#fff', color:'#016684', boxShadow: '0 0 10px #fff'},'fast');$("a.ag img").animate({opacity: '0.8'},'fast');});
+$("a.ag").mouseleave(function(event){event.preventDefault();$(this).animate({backgroundColor:'#016684', color:'#FCFBF6', boxShadow: '0 0 15px #111'},'fast');$("a.ag img").animate({opacity: '1'},'fast');});
+$("a.pb12").mouseenter(function(event){event.preventDefault();$(this).animate({backgroundColor:'#fff', color:'#795E4D', boxShadow: '0 0 10px #fff'},'fast');$("a.pb12 img").animate({opacity: '0.8'},'fast');});
+$("a.pb12").mouseleave(function(event){event.preventDefault();$(this).animate({backgroundColor:'#795E4D', color:'#FCFBF6', boxShadow: '0 0 15px #111'},'fast');$("a.pb12 img").animate({opacity: '1'},'fast');});
+$("a.pb13").mouseenter(function(event){event.preventDefault();$(this).animate({backgroundColor:'#fff', color:'#795E4D', boxShadow: '0 0 10px #fff'},'fast');$("a.pb13 img").animate({opacity: '0.8'},'fast');});
+$("a.pb13").mouseleave(function(event){event.preventDefault();$(this).animate({backgroundColor:'#795E4D', color:'#FCFBF6', boxShadow: '0 0 15px #111'},'fast');$("a.pb13 img").animate({opacity: '1'},'fast');})
+$("a.pb14").mouseenter(function(event){event.preventDefault();$(this).animate({backgroundColor:'#fff', color:'#795E4D', boxShadow: '0 0 10px #fff'},'fast');$("a.pb14 img").animate({opacity: '0.8'},'fast');});
+$("a.pb14").mouseleave(function(event){event.preventDefault();$(this).animate({backgroundColor:'#795E4D', color:'#FCFBF6', boxShadow: '0 0 15px #111'},'fast');$("a.pb14 img").animate({opacity: '1'},'fast');})
+$("a.pb15").mouseenter(function(event){event.preventDefault();$(this).animate({backgroundColor:'#fff', color:'#795E4D', boxShadow: '0 0 10px #fff'},'fast');$("a.pb15-may img").animate({opacity: '0.8'},'fast');});
+$("a.pb15").mouseleave(function(event){event.preventDefault();$(this).animate({backgroundColor:'#795E4D', color:'#FCFBF6', boxShadow: '0 0 15px #111'},'fast');$("a.pb15-may img").animate({opacity: '1'},'fast');})
+$("a.pb16").mouseenter(function(event){event.preventDefault();$(this).animate({backgroundColor:'#fff', color:'#795E4D', boxShadow: '0 0 10px #fff'},'fast');$("a.pb15-ago img").animate({opacity: '0.8'},'fast');});
+$("a.pb16").mouseleave(function(event){event.preventDefault();$(this).animate({backgroundColor:'#795E4D', color:'#FCFBF6', boxShadow: '0 0 15px #111'},'fast');$("a.pb15-ago img").animate({opacity: '1'},'fast');})
+$("a.rdv10").mouseenter(function(event){event.preventDefault();$(this).animate({backgroundColor:'#fff', color:'#EA6A55', boxShadow: '0 0 10px #fff'},'fast');$("a.rdv10 img").animate({opacity: '0.8'},'fast');});
+$("a.rdv10").mouseleave(function(event){event.preventDefault();$(this).animate({backgroundColor:'#EA6A55', color:'#FCFBF6', boxShadow: '0 0 15px #111'},'fast');$("a.rdv10 img").animate({opacity: '1'},'fast');})
+$("a.rdv11").mouseenter(function(event){event.preventDefault();$(this).animate({backgroundColor:'#fff', color:'#EA6A55', boxShadow: '0 0 10px #fff'},'fast');$("a.rdv11 img").animate({opacity: '0.8'},'fast');});
+$("a.rdv11").mouseleave(function(event){event.preventDefault();$(this).animate({backgroundColor:'#EA6A55', color:'#FCFBF6', boxShadow: '0 0 15px #111'},'fast');$("a.rdv11 img").animate({opacity: '1'},'fast');})
+$("a.rdv12").mouseenter(function(event){event.preventDefault();$(this).animate({backgroundColor:'#fff', color:'#EA6A55', boxShadow: '0 0 10px #fff'},'fast');$("a.rdv12 img").animate({opacity: '0.8'},'fast');});
+$("a.rdv12").mouseleave(function(event){event.preventDefault();$(this).animate({backgroundColor:'#EA6A55', color:'#FCFBF6', boxShadow: '0 0 15px #111'},'fast');$("a.rdv12 img").animate({opacity: '1'},'fast');})
+$("a.rdv13").mouseenter(function(event){event.preventDefault();$(this).animate({backgroundColor:'#fff', color:'#EA6A55', boxShadow: '0 0 10px #fff'},'fast');$("a.rdv13 img").animate({opacity: '0.8'},'fast');});
+$("a.rdv13").mouseleave(function(event){event.preventDefault();$(this).animate({backgroundColor:'#EA6A55', color:'#FCFBF6', boxShadow: '0 0 15px #111'},'fast');$("a.rdv13 img").animate({opacity: '1'},'fast');})
+$("a.rdv14").mouseenter(function(event){event.preventDefault();$(this).animate({backgroundColor:'#fff', color:'#EA6A55', boxShadow: '0 0 10px #fff'},'fast');$("a.rdv14 img").animate({opacity: '0.8'},'fast');});
+$("a.rdv14").mouseleave(function(event){event.preventDefault();$(this).animate({backgroundColor:'#EA6A55', color:'#FCFBF6', boxShadow: '0 0 15px #111'},'fast');$("a.rdv14 img").animate({opacity: '1'},'fast');})
+$("a.rdv15").mouseenter(function(event){event.preventDefault();$(this).animate({backgroundColor:'#fff', color:'#EA6A55', boxShadow: '0 0 10px #fff'},'fast');$("a.rdv15-may img").animate({opacity: '0.8'},'fast');});
+$("a.rdv15").mouseleave(function(event){event.preventDefault();$(this).animate({backgroundColor:'#EA6A55', color:'#FCFBF6', boxShadow: '0 0 15px #111'},'fast');$("a.rdv15-may img").animate({opacity: '1'},'fast');})
+$("a.res-rdv").mouseenter(function(event){event.preventDefault();$(this).animate({backgroundColor:'#f7f7f7', color:'#EA6A55', letterSpacing: '4px'},150);});
+$("a.res-rdv").mouseleave(function(event){event.preventDefault();$(this).animate({backgroundColor:'#EA6A55', color:'#fff', letterSpacing: '2px'},150);});
+$("a.res-pb").mouseenter(function(event){event.preventDefault();$(this).animate({backgroundColor:'#f7f7f7', color:'#795E4D', letterSpacing: '4px'},150);});
+$("a.res-pb").mouseleave(function(event){event.preventDefault();$(this).animate({backgroundColor:'#795E4D', color:'#fff', letterSpacing: '2px'},150);});
+$("a.res-s").mouseenter(function(event){event.preventDefault();$(this).animate({backgroundColor:'#f7f7f7', color:'#1687A9', letterSpacing: '4px'},150);});
+$("a.res-s").mouseleave(function(event){event.preventDefault();$(this).animate({backgroundColor:'#1687A9', color:'#fff', letterSpacing: '2px'},150);});
+$("a.res-cs").mouseenter(function(event){event.preventDefault();$(this).animate({backgroundColor:'#f7f7f7', color:'#866C5A', letterSpacing: '4px'},150);});
+$("a.res-cs").mouseleave(function(event){event.preventDefault();$(this).animate({backgroundColor:'#866C5A', color:'#fff', letterSpacing: '2px'},150);});
+$("a.res-ag").mouseenter(function(event){event.preventDefault();$(this).animate({backgroundColor:'#f7f7f7', color:'#016684', letterSpacing: '4px'},150);});
+$("a.res-ag").mouseleave(function(event){event.preventDefault();$(this).animate({backgroundColor:'#016684', color:'#fff', letterSpacing: '2px'},150);});
+$("a.res-malv").mouseenter(function(event){event.preventDefault();$(this).animate({backgroundColor:'#f7f7f7', color:'#937DA1', letterSpacing: '4px'},150);});
+$("a.res-malv").mouseleave(function(event){event.preventDefault();$(this).animate({backgroundColor:'#937DA1', color:'#fff', letterSpacing: '2px'},150);});
+$("a.res-cnc").mouseenter(function(event){event.preventDefault();$(this).animate({backgroundColor:'#f7f7f7', color:'#DB9952', letterSpacing: '4px'},150);});
+$("a.res-cnc").mouseleave(function(event){event.preventDefault();$(this).animate({backgroundColor:'#DB9952', color:'#fff', letterSpacing: '2px'},150);});
+$("a.res-cec").mouseenter(function(event){event.preventDefault();$(this).animate({backgroundColor:'#f7f7f7', color:'#AA9B72', letterSpacing: '4px'},150);});
+$("a.res-cec").mouseleave(function(event){event.preventDefault();$(this).animate({backgroundColor:'#AA9B72', color:'#fff', letterSpacing: '2px'},150);});
+
+$("#fly-fts a img").mouseenter(function(event){event.preventDefault();$(this).animate({boxShadow :'0 1px 5px 5px #fff'},100);});
+$("#fly-fts a img").mouseleave(function(event){event.preventDefault();$(this).animate({boxShadow :'0 1px 7px #000'},100);});
+
+$("#alb-h1").hover(function(event){event.preventDefault();$("#alb-cont").show("slow");});
+
+;}); 
